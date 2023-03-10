@@ -10,6 +10,7 @@
  *
  * Return: Always zero
  */
+
 int main(int argc, char *argv[])
 {
 	int i;
